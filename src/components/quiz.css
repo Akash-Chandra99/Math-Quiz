@@ -1,0 +1,9 @@
+.total-question {
+  background-color: #457b9d;
+  padding: 5px;
+  border-radius: 2px;
+}
+
+.total-score {
+  font-size: 1.25rem;
+}
